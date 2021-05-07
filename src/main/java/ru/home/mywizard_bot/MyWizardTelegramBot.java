@@ -57,4 +57,6 @@ public class MyWizardTelegramBot extends TelegramWebhookBot {
         this.botToken = botToken;
     }
 
+    //Sasasasas
+
 }
